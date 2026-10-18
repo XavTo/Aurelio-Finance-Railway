@@ -71,7 +71,9 @@ The application is pinned to upstream revision `2be2ddb2b95dad0947314c818f952c34
 
 **Why choose this Aurelio Railway template?** It adapts a locally designed finance app for remote hosting with private access, automatic credentials, a persistent database and an optional AI setup. It avoids exposing the native unauthenticated API directly to the Internet.
 
-## Dependencies
+## Dependencies for Aurelio Finance Hosting
+
+### Deployment Dependencies
 
 - A Railway service and persistent volume mounted at `/data`.
 - [Aurelio Finance upstream source](https://github.com/LosaLosSantos/aurelio-finance).
